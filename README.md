@@ -1,8 +1,4 @@
 Machine Learning & Artificial Intelligence Projects
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Machine-Learning-orange
-https://img.shields.io/badge/Artificial-Intelligence-red
-https://img.shields.io/badge/License-MIT-green
 
 A comprehensive collection of machine learning and artificial intelligence projects demonstrating various algorithms, techniques, and real-world applications.
 
